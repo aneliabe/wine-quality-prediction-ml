@@ -69,7 +69,7 @@ A técnica Permutation Importance é utilizada para avaliar a importância das v
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Google Colab
 
 ## Estrutura do Projeto
 

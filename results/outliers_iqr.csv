@@ -1,0 +1,12 @@
+feature,lower_bound,upper_bound,outliers,percentage
+fixed acidity,4.1,12.1,37,3.63
+volatile acidity,0.01,1.03,10,0.98
+citric acid,-0.4,0.91,1,0.1
+residual sugar,0.85,3.65,95,9.33
+chlorides,0.04,0.12,71,6.97
+free sulfur dioxide,-14.0,42.0,16,1.57
+total sulfur dioxide,-40.5,123.5,33,3.24
+density,0.99,1.0,30,2.95
+pH,2.92,3.68,24,2.36
+sulphates,0.3,0.97,41,4.03
+alcohol,6.95,13.75,6,0.59

@@ -1,0 +1,12 @@
+Variável,Importância média,Desvio-padrão
+total sulfur dioxide,0.0619,0.0522
+volatile acidity,0.0449,0.0359
+citric acid,0.0361,0.0329
+sulphates,0.026,0.0374
+fixed acidity,0.0251,0.0259
+residual sugar,0.0153,0.023
+density,0.0109,0.0291
+alcohol,0.0085,0.0467
+pH,0.001,0.027
+chlorides,-0.0275,0.0231
+free sulfur dioxide,-0.0473,0.0217

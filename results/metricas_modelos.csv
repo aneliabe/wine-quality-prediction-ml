@@ -1,0 +1,5 @@
+Modelo,Acurácia,Precisão,Recall,F1-score
+KNN inicial,0.8775,0.55,0.4074,0.4681
+SVM inicial,0.8971,0.7143,0.3704,0.4878
+KNN otimizado,0.8922,0.6316,0.4444,0.5217
+SVM otimizado,0.8284,0.4167,0.7407,0.5333
